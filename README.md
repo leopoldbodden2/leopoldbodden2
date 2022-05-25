@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leopoldbodden2
 - 👀 I’m interested in: Learning
-- 🌱 I’m currently learning: https://teachyourselfcs.com/
+- 🌱 I’m currently learning: C++ for custom hardware testers
 - 💞️ I’m looking to collaborate on: Laravel, Wordpress, Wordpress Plugins, Custom PHP, Open Source
 - 📫 How to reach me: Indeed, Linkedin, Upwork
 
